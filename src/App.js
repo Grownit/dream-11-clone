@@ -191,9 +191,6 @@ function App() {
           opacity={0.6}
         />
       )}
-      <div className="whatsappwidget">
-        <WhatsAppWidget phoneNumber="7259293140" />
-      </div>
       <ToastContainer />
     </>
   );

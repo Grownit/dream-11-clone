@@ -162,7 +162,7 @@ export function Register() {
   return (
     <Container>
       <div className="app-title">
-        <img src='./gamizologo.png' alt='' width='220' height='auto' />
+        <img src='./gcl11.png' alt='' width='140' height='60' />
       </div>
       <Paper>
         <TopBar>

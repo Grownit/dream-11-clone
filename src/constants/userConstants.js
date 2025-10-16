@@ -89,10 +89,10 @@ function geturl() {
 function getfrontendurl() {
   const current = process.env.REACT_APP_API;
   if (current == 'local') {
-    return 'https://gclteam.duckdns.org';
+    return 'https://gclteam11.biz';
   }
   //return 'http://localhost:3000';
-  return 'https://gamizo.vercel.app';
+  return 'https://gclteam11.biz';
 }
 
 export const URL = geturl();

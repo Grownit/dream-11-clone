@@ -9,8 +9,8 @@ export default function GamizoCoins() {
       <div>
         <Navbar />
         <div style={{ padding: 32, textAlign: "center" }}>
-          <h2>GamizoCoins</h2>
-          <p>This is the GamizoCoins page. Coming soon!</p>
+          <h2>GCL Coins</h2>
+          <p>This is the GCL Coins page. Coming soon!</p>
         </div>
       </div>
     </>

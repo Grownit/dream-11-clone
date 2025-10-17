@@ -120,7 +120,7 @@ export function Login() {
   return (
     <Container>
       <div className="app-title">
-        <img src='./gcl11.png' alt='' width='140' height='60' />
+        <img src='./gclteam17.png' alt='' width='250' />
       </div>
       <Paper>
         <TopBar>

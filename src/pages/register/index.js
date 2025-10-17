@@ -29,6 +29,9 @@ const Container = styled.div`
   padding: 20px;
   box-sizing:border-box;
   background-color: #f7f7f7;
+  .reg-title {
+  margin-bottom:5px;
+  }
    .MuiPaper-root {
     width: 100%;
     max-width: 400px;
@@ -161,8 +164,8 @@ export function Register() {
 
   return (
     <Container>
-      <div className="app-title">
-        <img src='./gcl11.png' alt='' width='140' height='60' />
+      <div className="reg-title">
+        <img src='./gclteam17.png' alt='' width='300' height='45'/>
       </div>
       <Paper>
         <TopBar>

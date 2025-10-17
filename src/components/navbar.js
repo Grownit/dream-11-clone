@@ -20,7 +20,7 @@ import { AccountBalanceRounded, AccountBalanceSharp, AccountBalanceWalletSharp, 
 import { FURL } from '../constants/userConstants';
 
 const LeftSide = styled.div`
-  width: 150px;
+  width: 170px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,7 +168,7 @@ export function Navbar({ home }) {
               <img src={`${user?.image}`} alt='logo' className="logo" style={{ height: "20px", borderRadius: "50%" }} /> :
               user?.username && user?.username.charAt(0)}
           </Account>
-          <img src={`${FURL}/gclteam12.png`} alt='logo' className="logo" style={{ height: "35px", width: "60px" }} />
+          <img src={`${FURL}/gclteam16.png`} alt='logo' className="logo" style={{ width: "130px" }} />
         </LeftSide>
         <Center>
 
